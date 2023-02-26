@@ -1,5 +1,3 @@
-var emailRegex = '<link>(\S*)<\/link>';
+var emailRegex = /[0-9 -()+]+$/;
 
-function isvalidemail(input){
-    return emailRegex.test(input)
-}
+var testr = /<([A-Z][A-Z0-9]*)\b[^>]*>(.*?)</>;
