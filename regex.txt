@@ -6,9 +6,7 @@
         <description>The NZBIndex RSS feed</description>
         <link>https://www.nzbindex.nl/</link>
         <item>
-            <title>
-The last Airbender [01/52] - "Avatar The last Airbender.par2" yEnc
-            </title>
+            <title>The last Airbender [01/52] - "Avatar The last Airbender.par2" yEnc</title>
             <link>https://www.nzbindex.nl/download/809963019/</link>
             <guid>https://www.nzbindex.nl/collection/809963019</guid>
             <enclosure url="https://www.nzbindex.nl/download/809963019/" length="47044392" type="application/x-nzb"/>
