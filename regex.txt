@@ -1,0 +1,39 @@
+<rss version="2.0">
+    <channel>
+        <title>NZBIndex</title>
+        <description>The NZBIndex RSS feed</description>
+        <link>https://www.nzbindex.nl/</link>
+        <item>
+            <title>
+The last Airbender [01/52] - "Avatar The last Airbender.par2" yEnc
+            </title>
+            <link>https://www.nzbindex.nl/download/809963019/</link>
+            <guid>https://www.nzbindex.nl/collection/809963019</guid>
+            <enclosure url="https://www.nzbindex.nl/download/809963019/" length="47044392" type="application/x-nzb"/>
+            <author>CPP-gebruiker@domein.nl (CPP-Gebruiker)</author>
+            <pubDate>Fri, 24 Feb 2023 17:52:50 +0000</pubDate>
+            <size>47044392</size>
+            <group>alt.binaries.dvd</group>
+            <group>alt.binaries.test</group>
+            <total_parts>123</total_parts>
+            <available_parts>123</available_parts>
+            <complete>1</complete>
+            <files>7</files>
+        </item>
+        <item>
+            <title>Avatar [09/53] - "R (2).jpeg" yEnc</title>
+            <link>https://www.nzbindex.nl/download/809590132/</link>
+            <guid>https://www.nzbindex.nl/collection/809590132</guid>
+            <enclosure url="https://www.nzbindex.nl/download/809590132/" length="356280" type="application/x-nzb"/>
+            <author>CPP-gebruiker@domein.nl (CPP-Gebruiker)</author>
+            <pubDate>Thu, 23 Feb 2023 17:48:01 +0000</pubDate>
+            <size>356280</size>
+            <group>alt.binaries.nl</group>
+            <group>alt.binaries.dvd</group>
+            <total_parts>1</total_parts>
+            <available_parts>1</available_parts>
+            <complete>1</complete>
+            <files>1</files>
+        </item>
+    </channel>
+</rss>
