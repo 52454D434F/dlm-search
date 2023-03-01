@@ -21,7 +21,7 @@
             <files>7</files>
         </item>
         <item>
-            <title>Avatar [09/53] - "R (2).jpeg" yEnc</title>
+            <title>avatar [09/53] - "R (2).jpeg" yEnc</title>
             <link>https://www.nzbindex.nl/download/809590132/</link>
             <guid>https://www.nzbindex.nl/collection/809590132</guid>
             <enclosure url="https://www.nzbindex.nl/download/809590132/" length="356280" type="application/x-nzb"/>
